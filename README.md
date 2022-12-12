@@ -2,7 +2,7 @@
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando desenvolvimento web
-- 🎓 &nbsp; Estudando **Ciência da Computaçâo** na "[Uenf](https://uenf.br)".
+- 🎓 &nbsp; Estudando **Ciência da Computaçâo** na [UENF](https://uenf.br).
 - 💼 &nbsp; Buscando oportunidade como desenvolvedor web Jr
 - 🌱 &nbsp; Aprendendo mais sobre **Python & Django; GoLang; Dart & Flutter**.
 

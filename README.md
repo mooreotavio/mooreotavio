@@ -2,9 +2,9 @@
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando desenvolvimento web
-- 🎓 &nbsp; Estudando **Sistemas de Informação** no [IFF]([https://uenf.br](https://portal1.iff.edu.br)).
-- 💼 &nbsp; Buscando oportunidade como desenvolvedor web Jr
-- 🌱 &nbsp; Aprendendo mais sobre **C# & .NET; GoLang; Elixir**.
+- 🎓 &nbsp; Estudando **Sistemas de Informação** no [IFF]([https://portal1.iff.edu.br]).
+- 💼 &nbsp; Buscando oportunidade como estagiário em desenvolvimento de software
+- 🌱 &nbsp; Aprendendo mais sobre **Java**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 

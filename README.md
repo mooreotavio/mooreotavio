@@ -53,6 +53,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin Otávio Moore](https://img.shields.io/badge/-mooreotavio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://linkedin.com/in/mooreotavio)
+[![Linkedin: Otávio Moore](https://img.shields.io/badge/-mooreotavio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/mooreotavio)](https://linkedin.com/in/mooreotavio)
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaviomoore@gmail.com)](mailto:otaviomoore@gmail.com)
 [![GitHub mooreotavio]( https://img.shields.io/github/followers/mooreotavio?label=follow&style=social)](https://github.com/mooreotavio)

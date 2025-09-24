@@ -30,24 +30,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/mooreotavio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooreotavio&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Otávio Moore](https://img.shields.io/badge/-mooreotavio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/mooreotavio)](https://linkedin.com/in/mooreotavio)
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaviomoore@gmail.com)](mailto:otaviomoore@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mooreotavio)
 [![GitHub mooreotavio]( https://img.shields.io/github/followers/mooreotavio?label=follow&style=social)](https://github.com/mooreotavio)
+
 
 
 

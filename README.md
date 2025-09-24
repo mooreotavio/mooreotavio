@@ -13,8 +13,7 @@
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
   ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
@@ -49,5 +48,6 @@
 [![Linkedin: Otávio Moore](https://img.shields.io/badge/-mooreotavio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/mooreotavio)](https://linkedin.com/in/mooreotavio)
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaviomoore@gmail.com)](mailto:otaviomoore@gmail.com)
 [![GitHub mooreotavio]( https://img.shields.io/github/followers/mooreotavio?label=follow&style=social)](https://github.com/mooreotavio)
+
 
 

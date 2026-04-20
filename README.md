@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Explorando desenvolvimento back-end
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no [IFF]([https://portal1.iff.edu.br]).
-- 💼 &nbsp; Estagiário em desenvolvimento de software back-end
+- 💼 &nbsp; Engenheiro de software back-end
 - 🌱 &nbsp; Aprendendo mais sobre **Java**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
